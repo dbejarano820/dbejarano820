@@ -15,7 +15,7 @@
   </h1>
 </div>
 
-I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Costa Rica.
+I'm a Full Stack Developer from Costa Rica.
 - :telescope: I’m working as a Fullstack Software Engineer at [The Liftime Value Company](https://www.ltvco.com/).
 
 - :seedling: Currently wrapping my university studies at [El Tecnológico de Costa Rica](https://www.tec.ac.cr/).
