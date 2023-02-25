@@ -15,3 +15,11 @@
   </h1>
 </div>
 ---
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Costa Rica.
+- :telescope: I’m working as a Fullstacj Software Engineer at [The Liftime Value Company](https://www.ltvco.com/).
+
+- :seedling: Currently wrapping my university studies at [El Tecnológico de Costa Rica](https://www.tec.ac.cr/).
+
+- :zap: I have take great interest in blockchain development and Web3.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
