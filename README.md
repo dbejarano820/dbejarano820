@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="200"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/daniel-bejarano-alfaro-18a283206/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -18,7 +18,7 @@
 I'm a Full Stack Developer from Costa Rica.
 - :telescope: I’m working as a Fullstack Software Engineer at [The Liftime Value Company](https://www.ltvco.com/).
 
-- :seedling: Currently wrapping my university studies at [El Tecnológico de Costa Rica](https://www.tec.ac.cr/).
+- :seedling: Currently wrapping up my university studies at [El Tecnológico de Costa Rica](https://www.tec.ac.cr/).
 
 - :zap: I'm highly interested in blockchain development and Web3.
 
