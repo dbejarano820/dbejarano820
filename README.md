@@ -20,7 +20,7 @@ I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :seedling: Currently wrapping my university studies at [El Tecnológico de Costa Rica](https://www.tec.ac.cr/).
 
-- :zap: I have take great interest in blockchain development and Web3.
+- :zap: I'm highly interested in blockchain development and Web3.
 
 ---
 
