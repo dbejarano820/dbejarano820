@@ -16,11 +16,11 @@
 </div>
 
 I'm a Full Stack Developer from Costa Rica.
-- :telescope: I’m working as a Fullstack Software Engineer at [The Liftime Value Company](https://www.ltvco.com/).
+- :telescope: Working as a Fullstack Software Engineer at [The Liftime Value Company](https://www.ltvco.com/).
 
 - :seedling: Currently wrapping up my university studies at [El Tecnológico de Costa Rica](https://www.tec.ac.cr/).
 
-- :zap: I'm highly interested in blockchain development and Web3.
+- :zap: Highly interested in blockchain development and Web3.
 
 ---
 
