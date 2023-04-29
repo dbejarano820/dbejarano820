@@ -19,7 +19,7 @@ I'm a Full Stack Developer from Costa Rica.
 
 - :seedling: Currently wrapping up my university studies at [El Tecnológico de Costa Rica](https://www.tec.ac.cr/).
 
-- :zap: Highly interested in blockchain development and Web3.
+- :zap: Diving into the StarkNet ecosystem and Cairo smart contracts
 
 ---
 
