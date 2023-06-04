@@ -21,7 +21,6 @@ I'm a Full Stack Developer from Costa Rica.
 
 - :zap: Diving into the StarkNet ecosystem and Cairo smart contracts
 
----
+- :crab: Rustacean in progress
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dbejarano820&theme=dark&background=000000)](https://git.io/streak-stats)
+---
