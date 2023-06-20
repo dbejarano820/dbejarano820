@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/daniel-bejarano-alfaro-18a283206/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/lil_beja">
+    <a href="https://twitter.com/0xBeja">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
