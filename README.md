@@ -15,7 +15,7 @@
 </div>
 
 I'm a Full Stack Developer from Costa Rica.
-- :telescope: Working as a Fullstack Software Engineer at [The Liftime Value Company](https://www.ltvco.com/).
+- :telescope: Working as a Fullstack Software Engineer at [The Lifetime Value Company](https://www.ltvco.com/).
 
 - :seedling: Currently wrapping up my university studies at [El Tecnológico de Costa Rica](https://www.tec.ac.cr/).
 
