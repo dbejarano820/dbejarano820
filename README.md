@@ -21,6 +21,6 @@ I'm a Full Stack Developer from Costa Rica.
 
 - :zap: Diving into the StarkNet ecosystem and Cairo smart contracts
 
-- :crab: Rustacean in progress
+- :crab: Member of the Sparkling Water bootcamp by LambdaClass, which dives into Cryptography using Rust
 
 ---
