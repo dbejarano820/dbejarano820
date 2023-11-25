@@ -17,10 +17,8 @@
 I'm a Software Engineer from Costa Rica.
 - :telescope: Working as a Fullstack Software Engineer at [The Lifetime Value Company](https://www.ltvco.com/).
 
-- :seedling: Currently wrapping up my university studies at [El Tecnológico de Costa Rica](https://www.tec.ac.cr/).
+- :seedling: Software Engineering honors graduate from [El Tecnológico de Costa Rica](https://www.tec.ac.cr/).
 
-- :zap: Diving into the Starknet ecosystem and Cairo smart contracts
-
-- :crab: Member of the Sparkling Water bootcamp by LambdaClass, which dives into Cryptography using Rust
+- :zap: Building product in the Starknet ecosystem
 
 ---
