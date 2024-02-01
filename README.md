@@ -7,7 +7,7 @@
     <a href="https://twitter.com/0xBeja">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-    <a href="https://instagram/danielbejaranocr">
+    <a href="https://instagram.com/danielbejaranocr">
       <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
   </div>
@@ -17,11 +17,12 @@
   </h1>
 </div>
 
-I'm a Software Engineer from Costa Rica.
-- :telescope: Working as a Fullstack Software Engineer at [The Lifetime Value Company](https://www.ltvco.com/).
-
-- :seedling: Software Engineering honors graduate from [El Tecnológico de Costa Rica](https://www.tec.ac.cr/).
-
+Software Engineer from Costa Rica competing in web3 hackathons around the world and inspiring others to explore tech.
 - :zap: Building product in the Starknet ecosystem
+ 
+- :telescope: Founder of the Dojo Coding private community
+  
+- :seedling: Software Engineering honors graduate from [El Tecnológico de Costa Rica](https://www.tec.ac.cr/)
+
 
 ---
